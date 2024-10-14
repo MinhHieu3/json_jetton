@@ -1,0 +1,7 @@
+{
+  "name": "My Custom Jetton",
+  "symbol": "MCJ",
+  "decimals": 9,
+  "image": "https://example.com/icon.png",
+  "description": "A custom jetton for demonstration purposes."
+}
